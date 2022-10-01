@@ -1,7 +1,8 @@
 {
   "name": "gastby-starter-blogging",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "private": true,
+  "license": "MIT",
   "description": "gastby-starter-blogging",
   "author": "jam.m1",
   "keywords": [
